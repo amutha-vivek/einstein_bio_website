@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color:#DCDCE6;
+}
+.albert_head{
+    margin:3% 0 2%;  
+   text-align: center;
+   color: rgb(90, 147, 221);
+}
+.albert_para{
+    margin:auto;
+    margin:0 0 3%;
+    text-align: center;
+    color: rgb(20, 114, 101);
+    font-style: italic;
+    font-size: 20px;
+}
+.albert_img{
+    /* border-radius: 50%; */
+    display: block;
+    margin: auto;
+    width:180px;
+}
+.sub-name{
+    text-align: center;
+    font-weight:bold;
+    margin-bottom:30px;
+    margin-top: 20px;
+  
+
+
+}
+.sub-bullet{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+ul{
+    list-style-type: disc;
+    width:80%;
+    margin:auto;
+    padding:50px 50px 0;
+    line-height: 2;
+    text-align: justify;
+
+    
+}
+.alter,.alter-name,.last-name{
+    margin:2% 5% 0;
+    padding-left: 50px;
+    font-weight: normal;
+}
+.alter,.alter-name{
+    margin-top:10px;
+}
+.alter-name{
+    font-weight: bold;
+}
+.last-name{
+    font-size:20px;
+    font- weight 200px;
+    color: blueviolet;
+    padding-bottom:50px;
+}
+.wiki{
+    font-style: italic;
+    color: navy;
+    text-decoration: none;
+    
+}
+.wiki:hover{
+    color:palevioletred;
+    font-size: 22px;
+}
